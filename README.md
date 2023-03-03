@@ -32,7 +32,12 @@ ACPI Hotpatch来自[OC-little](https://github.com/daliansky/OC-little)
 
 - 更新到0.8.9以后 主题加载不出来，不影响使用 还没时间看
 - 读卡器没有驱动
+- 触控板手势没有驱动，平时都是用鼠标
 - 欢迎提出issue和pull request
+
+## 其他
+
+- 更新OC时，记得Scan policy的数据类型为integer
 
 ## 鸣谢
 
